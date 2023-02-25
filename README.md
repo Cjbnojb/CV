@@ -11,7 +11,7 @@
         其中, 由于个人身体原因在清华就读阶段有半年休学时期, 大四未能完成培养方案,  故延期至大五毕业.
     </div>
     <div class="column" style="float:right;width:23%">    
-        <img src="新建 Markdown.assets/5694274682f6f23303b0873266dbc68.jpg" alt="5694274682f6f23303b0873266dbc68" style="zoom:50%;"> 
+        <img src="QQ图片20221230095301.jpg" alt="5694274682f6f23303b0873266dbc68" style="zoom:50%;"> 
     </div> 
 </div>
 
